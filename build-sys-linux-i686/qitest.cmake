@@ -1,0 +1,1 @@
+--name;test_sandbox;--timeout;20;--;/home/sol/nao/projects/sandbox/build-sys-linux-i686/sdk/bin/test_sandbox

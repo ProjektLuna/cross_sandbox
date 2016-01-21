@@ -1,0 +1,14 @@
+[
+  {
+    "environment": null, 
+    "name": "test_sandbox", 
+    "cmd": [
+      "/home/sol/nao/projects/sandbox/build-sys-linux-i686/sdk/bin/test_sandbox"
+    ], 
+    "nightly": false, 
+    "gtest": false, 
+    "working_directory": null, 
+    "timeout": 20, 
+    "perf": false
+  }
+]
